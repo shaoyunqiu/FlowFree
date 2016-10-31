@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>flowfreemap/5_1.txt</file>
+        <file>flowfreemap/5_2.txt</file>
+        <file>flowfreemap/6_1.txt</file>
+        <file>flowfreemap/6_2.txt</file>
+        <file>flowfreemap/7_1.txt</file>
+        <file>flowfreemap/7_2.txt</file>
+        <file>flowfreemap/5_3.txt</file>
+        <file>flowfreemap/5_4.txt</file>
+        <file>flowfreemap/6_3.txt</file>
+        <file>flowfreemap/7_3.txt</file>
+        <file>flowfreemap/8_1.txt</file>
+    </qresource>
+    <qresource prefix="/wav">
+        <file>flowfreewav/leak.wav</file>
+        <file>flowfreewav/forward.wav</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>flowfreeimg/flowfree.ico</file>
+    </qresource>
+</RCC>
